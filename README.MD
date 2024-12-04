@@ -1,1 +1,2 @@
-# Minhas alterações a partir do projeto base:
+# Finalizado
+Acrescentei background no texto e mudei as cores.
